@@ -52,17 +52,6 @@ e acompanhar status.
 Motivação: Garantir segurança das crianças e confiança na gestão pública. Persona 3:
 Associação de Moradores (Coletivo) – Região Central do Plano Piloto
 
-* Persona 3: João Souza (Motorista de Aplicativo) – Asa Sul
-Idade: 33 anos.
-Ocupação: Motorista por aplicativo (turnos noturnos e diurnos).
-Rotina: Trânsito constante no Plano Piloto; utiliza GPS e WhatsApp para compartilhar
-problemas.
-Tecnologia: Smartphone moderno; confortável com aplicativos de navegação.
-Comportamento: Evita ruas de risco; compartilha fotos em grupos.
-Necessidades: Registro rápido em movimento, evidências confiáveis para seguros e
-cobranças.
-Motivação: Reduzir custos de manutenção do veículo e tempo perdido.
-
 ---
 
 ## 5. Wireframes e Validação UX
