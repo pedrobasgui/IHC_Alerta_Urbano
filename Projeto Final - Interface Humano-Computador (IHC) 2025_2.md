@@ -79,9 +79,9 @@ Motivação: Reduzir custos de manutenção do veículo e tempo perdido.
 ## 6. Implementação Técnica
 
 * **Tecnologias Utilizadas:** HTML, CSS, JavaScript
-* **Design Responsivo:** Sim / Não
+* **Design Responsivo:** Sim 
 * **Link do Protótipo Funcional:**
-* **Principais Funcionalidades Implementadas:**
+* **Principais Funcionalidades Implementadas:** Botões funcionais, Câmera abre o explorador de arquivos parar o upload de imagens.
 
 ---
 
@@ -200,4 +200,4 @@ Visuais do Mapa: Sugerir pins coloridos/iconizados no mapa para diferenciar tipo
 
 
 ### Declaração de Autoria
-> Declaramos que este projeto foi desenvolvido integralmente pelo grupo, sem plágio ou uso indevido de conteúdo de terceiros.
+> Declaramos que este projeto foi desenvolvido integralmente pelo grupo, sem plágio ou uso indevido de conteúdo de terceiros, o uso de IA foi estritamente para elaboração e formatação do documento.
