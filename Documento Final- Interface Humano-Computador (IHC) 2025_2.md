@@ -1,4 +1,4 @@
-# Projeto Final - Interface Humano-Computador (IHC) 2025_2
+# Documento Final - Interface Humano-Computador (IHC) 2025_2
 
 ## 1. Identificação do Projeto
 
