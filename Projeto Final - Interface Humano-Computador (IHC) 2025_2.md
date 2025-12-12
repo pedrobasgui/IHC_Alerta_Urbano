@@ -69,7 +69,7 @@ Associação de Moradores (Coletivo) – Região Central do Plano Piloto
 
 * **Tecnologias Utilizadas:** HTML, CSS, JavaScript
 * **Design Responsivo:** Sim 
-* **Link do Protótipo Funcional:**
+* **Link do Protótipo Funcional:** O protótipo roda local com LiveServer, necessário o donwload dos arquivos e da extensão LiveServer
 * **Principais Funcionalidades Implementadas:** Botões funcionais, Câmera abre o explorador de arquivos parar o upload de imagens.
 
 ---
